@@ -1,63 +1,17 @@
+# 🔧 Project Name, `Codympoh`.
 
 
-\# Project Name
 
-\*(Replace "Project Name" with your actual project name, e.g., "Codympoh")\*
+## 🚀 Installation
 
-\## Description
+Follow these steps to get started:
 
-A brief description of your project. Explain what it does, its purpose, and key features.
+```bash
+# Clone the repository
+git clone https://github.com/CODE-WITH-AMUL/CodyMpho.git
 
-Example:
+# Navigate to the project directory
+cd CodyMpho
 
-\> "Codympoh is a \[tool/library/app\] that helps users \[main functionality\]. It provides \[key features\]."
-
-\## Installation
-
-Steps to install or set up the project.
-
-Example:
-
-\`\`\`bash
-
-git clone https://github.com/yourusername/codympoh.git
-
-cd codympoh
-
-npm install # or pip install, etc.
-
-\`\`\`
-
-\## Usage
-
-How to use the project. Include code examples or commands.
-
-Example:
-
-\`\`\`python
-
-import codympoh
-
-result = codympoh.do\_something()
-
-print(result)
-
-\`\`\`
-
-\## Features
-
-\- List the main features here.
-
-\- For example: "Fast processing," "Easy API," etc.
-
-\## Contributing
-
-If you accept contributions, explain how others can help.
-
-Example:
-
-\> "Pull requests are welcome! Open an issue first to discuss changes."
-
-\## License
-
-Specify your project's license (e.g., MIT, Apache 2.0).
+# Install dependencies
+npm install  # or pip install -r requirements.txt
